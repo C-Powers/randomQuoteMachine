@@ -1,0 +1,6 @@
+{
+  "name": "RandomQuoteMachine",
+  "tagline": "A JS app that gives a random LOTR quote",
+  "body": "#This is a random quote machine written in javaScript.\r\nPart of the freeCodeCamp front end cert. \r\nCheck out my work at FCC --- https://www.freecodecamp.com/chris-powers\r\nCheck out this app in action on codepen.io --- http://codepen.io/cpowers/pen/JXywqx\r\nAlso, you can take a look at my unorganized codepen.io profile --- http://codepen.io/cpowers/\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
